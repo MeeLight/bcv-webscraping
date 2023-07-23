@@ -10,7 +10,9 @@
 
 <br>
 
-**Simple BackEnd App** where Web Scraping is done with Puppeteer to the BCV website. The app has only one route: `'/'`.
+**Simple BackEnd App** where Web Scraping is done with Puppeteer to the
+<a href="https://www.bcv.org.ve/" target="_blank">BCV</a>
+website. The app has only one route: `'/'`.
 
 Each time a request is made to the only path: `'/'` and **there are no problems in getting the response of the request**. The price obtained will be saved in the `data` folder of `'./src/data'`
 
