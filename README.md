@@ -5,14 +5,14 @@
 <br>
 
 <div align="center">
-  <img src="https://user-images.githubusercontent.com/10379601/29446482-04f7036a-841f-11e7-9872-91d1fc2ea683.png" alt="Puppeteer" target="_blank">
+  <img width="100px" height="150px" src="https://user-images.githubusercontent.com/10379601/29446482-04f7036a-841f-11e7-9872-91d1fc2ea683.png" alt="Puppeteer" target="_blank">
 </div>
 
 <br>
 
 **Simple BackEnd App** where Web Scraping is done with Puppeteer to the BCV website. The app has only one route: `'/'`.
 
-**NOTE**: `this is done for practical purposes.`
+⚠ **NOTE**: `this was done for practical purposes.`
 
 ## 📝 It is used
 
