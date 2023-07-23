@@ -1,0 +1,7 @@
+node_modules
+.editorconfig
+.gitignore
+LICENSE
+pnpm-lock.yaml
+tsconfig.json
+src/data

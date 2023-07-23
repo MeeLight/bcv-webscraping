@@ -1,0 +1,36 @@
+{
+  "compilerOptions": {
+    "target": "ES2020",
+    "experimentalDecorators": true,
+    "emitDecoratorMetadata": true,
+
+    /* Modules */
+    "module": "CommonJS",
+    "baseUrl": "./",
+    "typeRoots": ["./node_modules/@types", "./src/types"],
+
+    /* Emit */
+    "outDir": "./dist",
+    "removeComments": true,
+    "newLine": "lf",
+    "esModuleInterop": true,
+    "forceConsistentCasingInFileNames": false,
+
+    /* Type Checking */
+    "strict": true,
+    "noImplicitAny": true,
+    "strictNullChecks": true,
+    "strictFunctionTypes": true,
+    "useUnknownInCatchVariables": false,
+    "alwaysStrict": true,
+
+    /* Completeness */
+    "skipLibCheck": true
+  },
+  "include": [
+    "./src"
+  ],
+  "exclude": [
+    "./node_modules"
+  ]
+}
