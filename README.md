@@ -5,7 +5,8 @@
 <br>
 
 <div align="center">
-  <img width="100px" height="150px" src="https://user-images.githubusercontent.com/10379601/29446482-04f7036a-841f-11e7-9872-91d1fc2ea683.png" alt="Puppeteer" target="_blank">
+  <img width="100px" height="150px" src="https://user-images.githubusercontent.com/10379601/29446482-04f7036a-841f-11e7-9872-91d1fc2ea683.png" alt="Puppeteer">
+  <img  src="https://www.bcv.org.ve/sites/default/files/default_images/logo_bcv-04_2.png" alt="BCV">
 </div>
 
 <br>
